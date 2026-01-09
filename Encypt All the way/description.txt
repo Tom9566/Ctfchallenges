@@ -1,0 +1,4 @@
+We've intercepted a communication channel. We believe the attacker is using a simple XOR cipher, but they made a critical mistake: they used the exact same key to encrypt multiple messages. We also managed to recover the plaintext for one of the messages. Can you use this to find the hidden flag?
+
+
+paavaiCTF{x0r_r3us3_1s_4_d34dly_s1n}
