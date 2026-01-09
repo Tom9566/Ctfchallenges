@@ -1,0 +1,20 @@
+1.Traveller
+paavaiCTF{PATIENCEISKEY}
+
+2.Encypt All the way
+paavaiCTF{x0r_r3us3_1s_4_d34dly_s1n}
+
+3.Forensic INS
+paavaiCTF{yzwjiwkwbq3k77ck}
+
+4.JARVIS!
+paavaiCTF{dNs_3xf1ltr4t10n_1s_n0t_s0_h4rd}
+
+5.DEbug
+paavaiCTF{qnk04m6zrjb5yuxa}
+
+6.hidden_flag
+paavaiCTF{th1s_1s_4_b4by_r3v_ch4ll}
+
+
+total points: 18000
